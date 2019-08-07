@@ -1,2 +1,2 @@
 # idea
-new  things
+There's something interesting here
